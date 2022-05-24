@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prakashsingh2
 - 👀 I’m interested in Core Development projects
-- 🌱 I’m currently learning Piano 
+- 🌱 I’m always learning Technology and colloborating with peers. 
 - 💞️ I’m looking to collaborate on MS Teams.
 - 📫 You can reach me on my email prakash.albela@gmail.com
 
