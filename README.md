@@ -2,7 +2,7 @@
 - 👀 I’m interested in Core Development projects
 - 🌱 I’m currently learning Piano 
 - 💞️ I’m looking to collaborate on MS Teams.
-- 📫 You can reach me on my email prakash.singh@abbvie.com
+- 📫 You can reach me on my email prakash.albela@gmail.com
 
 <!---
 prakashsingh2/prakashsingh2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
